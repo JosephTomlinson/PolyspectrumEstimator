@@ -1,5 +1,5 @@
 # PolyspectrumEstimator
-This is the code that was used for (Will insert arxiv link here after submission)
+This is the code that was used for [Efficient parallel algorithm for estimating higher-order polyspectra](https://arxiv.org/abs/1904.11055)
 
 This repository contains two main files 
 
